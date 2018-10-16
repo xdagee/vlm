@@ -256,14 +256,14 @@
                                         </li>
 
                                         <li>
-                                            <a href="assets/img/works/photography/NSS_CAPACITY-BUILDING_ACCRA-DAY_1-‎‎30.8.‎2017-62.jpg" title="">
-                                                <img src="assets/img/works/photography/NSS_CAPACITY-BUILDING_ACCRA-DAY_1-‎‎30.8.‎2017-62.jpg" alt="">
+                                            <a href="assets/img/works/photography/NSS_CAPACITY_BUILDING_ACCRA_DAY_1_30.8.2017-62.jpg" title="">
+                                                <img src="assets/img/works/photography/NSS_CAPACITY_BUILDING_ACCRA_DAY_1_30.8.2017-62.jpg" alt="">
                                             </a>
                                         </li>
 
                                         <li>
-                                            <a href="assets/img/works/photography/NSS_CAPACITY-BUILDING_ACCRA-DAY-1-‎‎30.8.‎2017-61.jpg" title="">
-                                                <img src="assets/img/works/photography/NSS_CAPACITY-BUILDING_ACCRA-DAY-1-‎‎30.8.‎2017-61.jpg" alt="">
+                                            <a href="assets/img/works/photography/NSS_CAPACITY_BUILDING_ACCRA_DAY_1_30.8.2017-61.jpg" title="">
+                                                <img src="assets/img/works/photography/NSS_CAPACITY_BUILDING_ACCRA_DAY_1_30.8.2017-61.jpg" alt="">
                                             </a>
                                         </li>
 
@@ -280,32 +280,32 @@
                                         </li>
 
                                         <li>
-                                            <a href="assets/img/works/photography/OSHUNLUXE_PHOTOSHOOT_05.11.‎2017-120.jpg" title="">
-                                                <img src="assets/img/works/photography/OSHUNLUXE_PHOTOSHOOT_05.11.‎2017-120.jpg" alt="">
+                                            <a href="{{asset('assets/img/works/photography/OSHUNLUXE_PHOTOSHOOT_05.11.2017-120.jpg')}}" title="">
+                                                <img src="{{asset('assets/img/works/photography/OSHUNLUXE_PHOTOSHOOT_05.11.2017-120.jpg')}}" alt="">
                                             </a>
                                         </li>
 
                                         <li>
-                                            <a href="assets/img/works/photography/OSHUNLUXE_PHOTOSHOOT_05.11.‎2017-123.jpg" title="">
-                                                <img src="assets/img/works/photography/OSHUNLUXE_PHOTOSHOOT_05.11.‎2017-123.jpg" alt="">
+                                            <a href="{{asset('assets/img/works/photography/OSHUNLUXE_PHOTOSHOOT_05.11.2017-123.jpg')}}" title="">
+                                                <img src="{{asset('assets/img/works/photography/OSHUNLUXE_PHOTOSHOOT_05.11.2017-123.jpg')}}" alt="">
                                             </a>
                                         </li>
 
                                         <li>
-                                            <a href="assets/img/works/photography/OSHUNLUXE_PHOTOSHOOT_05.11.‎2017-135.jpg" title="">
-                                                <img src="assets/img/works/photography/OSHUNLUXE_PHOTOSHOOT_05.11.‎2017-135.jpg" alt="">
+                                            <a href="{{asset('assets/img/works/photography/OSHUNLUXE_PHOTOSHOOT_05.11.2017-135.jpg')}}" title="">
+                                                <img src="{{asset('assets/img/works/photography/OSHUNLUXE_PHOTOSHOOT_05.11.2017-135.jpg')}}" alt="">
                                             </a>
                                         </li>
 
                                         <li>
-                                            <a href="assets/img/works/photography/OSHUNLUXE_PHOTOSHOOT_05.11.‎2017-210.jpg" title="">
-                                                <img src="assets/img/works/photography/OSHUNLUXE_PHOTOSHOOT_05.11.‎2017-210.jpg" alt="">
+                                            <a href="{{asset('assets/img/works/photography/OSHUNLUXE_PHOTOSHOOT_05.11.2017-210.jpg')}}" title="">
+                                                <img src="{{asset('assets/img/works/photography/OSHUNLUXE_PHOTOSHOOT_05.11.2017-210.jpg')}}" alt="">
                                             </a>
                                         </li>
 
                                         <li>
-                                            <a href="assets/img/works/photography/OSHUNLUXE_PHOTOSHOOT_05.11.‎2017-232.jpg" title="">
-                                                <img src="assets/img/works/photography/OSHUNLUXE_PHOTOSHOOT_05.11.‎2017-232.jpg" alt="">
+                                            <a href="{{asset('assets/img/works/photography/OSHUNLUXE_PHOTOSHOOT_05.11.2017-232.jpg')}}" title="">
+                                                <img src="{{asset('assets/img/works/photography/OSHUNLUXE_PHOTOSHOOT_05.11.2017-232.jpg')}}" alt="">
                                             </a>
                                         </li>
 
@@ -404,6 +404,7 @@
                             </div>
                         </div>
                     </div>
+
                 </div>
             </div>
         </div>
