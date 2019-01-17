@@ -19,7 +19,7 @@
                         <div class="footer-logo">
                             <img src="{{asset('assets/img/logo-white.png')}}" alt="footer-logo">
                         </div>
-                        <span class="copy-text">Copyright &copy; 2018 Visual Lab Media &nbsp; | &nbsp; All Rights Reserved.</a></span>
+                        <span class="copy-text">Copyright &copy; 2019 Visual Lab Media &nbsp; | &nbsp; All Rights Reserved.</a></span>
                         <div class="footer-intro">
                             <p>we don't settle for less, you derserve more.</p>
                         </div>
