@@ -69,7 +69,7 @@
     <header id="header" class="tt-nav nav-border-bottom">
         <div class="header-sticky light-header ">
             <div class="container">
-                <div class="search-wrapper">
+                <!-- <div class="search-wrapper">
                     <div class="search-trigger pull-right">
                         <div class='search-btn'></div>
                         <i class="material-icons">&#xE8B6;</i>
@@ -84,7 +84,7 @@
                             <button class="btn pink search-button waves-effect waves-light" type="submit"><i class="material-icons">&#xE8B6;</i></button>
                         </form>
                     </div>
-                </div>
+                </div> -->
                 <div id="materialize-menu" class="menuzord">
                     <a href="{{ url ('/') }}" class="logo-brand">
                         <img class="retina" src="{{ asset('assets/img/logo.png') }}" alt="company logo" />
