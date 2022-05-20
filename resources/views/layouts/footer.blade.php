@@ -6,20 +6,20 @@
                 </a>
                 
                 <ul class="social-link tt-animate ltr mt-20">
-                    <li><a href="https://www.facebook.com/visuallabghana"><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="https://www.instagram.com/nene_matey"><i class="fa fa-instagram"></i></a></li>
-                    <li><a href="https://www.youtube.com/channel/UCwytD1hYEcx6nSnDN1aFKZw"><i class="fa fa-youtube"></i></a></li>
-                    <li><a href="https://vimeo.com/visuallabgh"><i class="fa fa-vimeo"></i></a></li>
-                    {{-- <li><a href="https://be.net/Visual_lab"><i class="fa fa-behance"></i></a></li> --}}
+                    <li><a href="https://www.facebook.com/visuallabghana" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                    <li><a href="https://www.instagram.com/nene_matey" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                    <li><a href="https://www.youtube.com/channel/UCwytD1hYEcx6nSnDN1aFKZw" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                    <li><a href="https://vimeo.com/visuallabgh" target="_blank"><i class="fa fa-vimeo"></i></a></li>
+                    <li><a href="https://www.behance.net/Visual_lab" target="_blank"><i class="fa fa-behance"></i></a></li>
                 </ul>
                 
                 <hr class="mt-15">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="footer-logo">
-                            <img src="{{asset('assets/img/logo-white.png')}}" alt="footer-logo">
+                            <img src="{{asset('assets/img/logo-white.webp')}}" alt="footer-logo">
                         </div>
-                        <span class="copy-text">Copyright &copy; 2020 Visual Lab Media &nbsp; | &nbsp; All Rights Reserved.</a></span>
+                        <span class="copy-text">Copyright &copy; 2022 Visual Lab Media &nbsp; | &nbsp; All Rights Reserved.</a></span>
                         <div class="footer-intro">
                             <p>we don't settle for less, you derserve more.</p>
                         </div>

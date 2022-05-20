@@ -9,16 +9,15 @@
     <meta name="description" content="Photography + Media Consultancy + Films">
     <meta name="keywords" content="creative, social media, branding, photography, production, advertising, corporate, business, agency, media, film">
     <meta name="author" content="visuallabghana.com">
-    {{-- <title> {{ config('app.name') }} </title> --}}
 
     <title>{{ config('app.name') }} | @yield('title')</title>
 
     <!-- fav icon -->
-    <link rel="shortcut icon" href="{{ asset('assets/img/ico/favicon.png') }}">
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ asset('assets/img/ico/apple-touch-icon-144-precomposed.png') }}">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ asset('assets/img/ico/apple-touch-icon-114-precomposed.png') }}">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ asset('assets/img/ico/apple-touch-icon-72-precomposed.png') }}">
-    <link rel="apple-touch-icon-precomposed" href="{{ asset('assets/img/ico/apple-touch-icon-57-precomposed.png') }}">
+    <link rel="shortcut icon" href="{{ asset('assets/img/ico/favicon.webp') }}">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ asset('assets/img/ico/apple-touch-icon-144-precomposed.webp') }}">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ asset('assets/img/ico/apple-touch-icon-114-precomposed.webp') }}">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ asset('assets/img/ico/apple-touch-icon-72-precomposed.webp') }}">
+    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="{{ asset('assets/img/ico/apple-touch-icon-57-precomposed.webp') }}">
 
     <!-- vendor css -->
     <link href="{{ asset('assets/fonts/iconfont/material-icons.css') }}" rel="stylesheet" type="text/css">
@@ -49,11 +48,11 @@
             <div class="row">
                 <div class="col-md-6">
                     <ul class="list-inline social-top tt-animate btt">
-                        <li><a href="https://www.facebook.com/visuallabghana"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="https://www.instagram.com/nene_matey"><i class="fa fa-instagram"></i></a></li>
-                        <li><a href="https://www.youtube.com/channel/UCwytD1hYEcx6nSnDN1aFKZw"><i class="fa fa-youtube"></i></a></li>
-                        <li><a href="https://vimeo.com/visuallabgh"><i class="fa fa-vimeo"></i></a></li>
-                        {{-- <li><a href="https://be.net/Visual_lab"><i class="fa fa-behance"></i></a></li> --}}
+                        <li><a href="https://www.facebook.com/visuallabghana" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://www.instagram.com/nene_matey" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="https://www.youtube.com/channel/UCwytD1hYEcx6nSnDN1aFKZw" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                        <li><a href="https://vimeo.com/visuallabgh" target="_blank"><i class="fa fa-vimeo"></i></a></li>
+                        <li><a href="https://www.behance.net/Visual_lab" target="_blank"><i class="fa fa-behance"></i></a></li>
                     </ul>
                 </div>
                 <div class="col-md-6 text-right">
@@ -69,25 +68,9 @@
     <header id="header" class="tt-nav nav-border-bottom">
         <div class="header-sticky light-header ">
             <div class="container">
-                <!-- <div class="search-wrapper">
-                    <div class="search-trigger pull-right">
-                        <div class='search-btn'></div>
-                        <i class="material-icons">&#xE8B6;</i>
-                    </div>
-                    <i class="search-close material-icons">&#xE5CD;</i>
-                    <div class="search-form-wrapper">
-                        <form action="#" class="white-form">
-                            <div class="input-field">
-                                <input type="text" name="search" id="search">
-                                <label for="search" class="">What are you looking for...?</label>
-                            </div>
-                            <button class="btn pink search-button waves-effect waves-light" type="submit"><i class="material-icons">&#xE8B6;</i></button>
-                        </form>
-                    </div>
-                </div> -->
                 <div id="materialize-menu" class="menuzord">
                     <a href="{{ url ('/') }}" class="logo-brand">
-                        <img class="retina" src="{{ asset('assets/img/logo.png') }}" alt="company logo" />
+                        <img class="retina" src="{{ asset('assets/img/logo.webp') }}" alt="company logo" />
                     </a>
                     <ul class="menuzord-menu pull-right">
                         <li class="{{ Request::is('/') ? 'active' : '' }}">

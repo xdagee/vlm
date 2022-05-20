@@ -12,8 +12,8 @@
                 <div class="col-md-5">
                     <div class="gallery-thumb">
                         <ul class="slides">
-                            <li data-thumb="{{ asset('assets/img/about/5.jpg') }}">
-                                <img src="{{ asset('assets/img/about/5.jpg') }}" alt="image">
+                            <li data-thumb="{{ asset('assets/img/about/0.webp') }}">
+                                <img src="{{ asset('assets/img/about/0.webp') }}" class="img-responsive" alt="about-team-slider-image">
                             </li>
                         </ul>
                     </div>
@@ -30,26 +30,26 @@
             </div>
         </div>
     </section>
-    <section class="section">
+    <section class="section-padding">
         <div class="container">
             <div class="row">
                 <div class="col-md-4 col-sm-6">
-                    <img src="{{ asset('assets/img/about/1.jpg')}}" alt="" class="img-responsive">
+                    <img src="{{ asset('assets/img/about/1.webp')}}" width="853" height="640" alt="about-team-member-image" class="img-responsive">
                 </div>
                 <div class="col-md-4 col-sm-6">
-                    <img src="{{ asset('assets/img/about/2.jpg')}}" alt="" class="img-responsive">
+                    <img src="{{ asset('assets/img/about/2.webp')}}" width="853" height="640" alt="about-team-member-image" class="img-responsive">
                 </div>
                 <div class="col-md-4 col-sm-6">
-                    <img src="{{ asset('assets/img/about/6.jpg')}}" alt="" class="img-responsive">
+                    <img src="{{ asset('assets/img/about/3.webp')}}" width="853" height="640" alt="about-team-member-image" class="img-responsive">
                 </div>
                 <div class="col-md-4 col-sm-6">
-                    <img src="{{ asset('assets/img/about/4.jpg')}}" alt="" class="img-responsive">
+                    <img src="{{ asset('assets/img/about/4.webp')}}" width="853" height="640" alt="about-team-member-image" class="img-responsive">
                 </div>
                 <div class="col-md-4 col-sm-6">
-                    <img src="{{ asset('assets/img/about/9.jpg')}}" alt="" class="img-responsive">
+                    <img src="{{ asset('assets/img/about/5.webp')}}" width="853" height="640" alt="about-team-member-image" class="img-responsive">
                 </div>
                 <div class="col-md-4 col-sm-6">
-                    <img src="{{ asset('assets/img/about/7.jpg')}}" alt="" class="img-responsive">
+                    <img src="{{ asset('assets/img/about/6.webp')}}" width="853" height="640" alt="about-team-member-image" class="img-responsive">
                 </div>
             </div>
         </div>
@@ -66,7 +66,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="team-wrapper">
                         <div class="team-img">
-                            <img src="{{ asset('assets/img/team/Wisdom_Matey_Tetteh.jpg')}}" class="img-responsive" alt="Image">
+                            <img src="{{ asset('assets/img/team/Wisdom_Matey_Tetteh.webp')}}" class="img-responsive" alt="Wisdom_Matey_Tetteh">
                         </div>
                         <div class="team-title">
                             <h3>Wisdom Matey Tetteh</h3>
@@ -78,7 +78,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="team-wrapper">
                         <div class="team-img">
-                            <img src="{{ asset('assets/img/team/Eunice_Robertson.jpg')}}" class="img-responsive" alt="Image">
+                            <img src="{{ asset('assets/img/team/Eunice_Robertson.webp')}}" class="img-responsive" alt="Eunice_Robertson">
                         </div>
                         <div class="team-title">
                             <h3>Eunice Robertson</h3>
@@ -90,7 +90,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="team-wrapper">
                         <div class="team-img">
-                            <img src="{{ asset('assets/img/team/Samuel_Lamptey.jpg')}}" class="img-responsive" alt="Image">
+                            <img src="{{ asset('assets/img/team/Samuel_Lamptey.webp')}}" class="img-responsive" alt="Samuel_Lamptey">
                         </div>
                         <div class="team-title">
                             <h3>Samuel Lamptey</h3>
@@ -102,7 +102,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="team-wrapper">
                         <div class="team-img">
-                            <img src="{{ asset('assets/img/team/Bernice_Saewaa.jpg')}}" class="img-responsive" alt="Image">
+                            <img src="{{ asset('assets/img/team/Bernice_Saewaa.webp')}}" class="img-responsive" alt="Bernice_Saewaa">
                         </div>
                         <div class="team-title">
                             <h3>Bernice Saewaa</h3>
@@ -114,7 +114,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="team-wrapper">
                         <div class="team-img">
-                            <img src="{{ asset('assets/img/team/Ernest_Bada.jpg')}}" class="img-responsive" alt="Image">
+                            <img src="{{ asset('assets/img/team/Ernest_Bada.webp')}}" class="img-responsive" alt="Ernest_Bada">
                         </div>
                         <div class="team-title">
                             <h3>Ernest Bada</h3>
@@ -126,7 +126,7 @@
                 <div class="col-md-4 col-sm-6">
                     <div class="team-wrapper">
                         <div class="team-img">
-                            <img src="{{ asset('assets/img/team/Ruth_Yemoteley.jpg')}}" class="img-responsive" alt="Image">
+                            <img src="{{ asset('assets/img/team/Ruth_Yemoteley.webp')}}" class="img-responsive" alt="Ruth_Yemoteley">
                         </div>
                         <div class="team-title">
                             <h3>Ruth Yemoteley</h3>

@@ -6,7 +6,7 @@
     
     {{-- <section class="rev_slider_wrapper">
         <div class="rev_slider materialize-slider">
-            <img src="{{asset('assets/img/contact/02.jpg')}}" class="img-responsive" alt="Image" width="100%" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+            <img src="{{asset('assets/img/contact/02.webp')}}" class="img-responsive" alt="contact-slider-image" width="100%" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
         </div>
     </section> --}}
 

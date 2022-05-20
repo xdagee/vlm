@@ -6,7 +6,7 @@
     
     {{-- <section class="rev_slider_wrapper">
         <div class="rev_slider materialize-slider">
-            <img src="assets/img/services/02.jpg" class="img-responsive" alt="Image" width="100%" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+            <img src="assets/img/services/02.webp" class="img-responsive" alt="service-slider-image" width="100%" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
         </div>
     </section> --}}
 
@@ -24,7 +24,7 @@
                     <div class="featured-item border-box hover brand-hover">
                         <div class="icon mb-30">
                             <i class="material-icons brand-icon">
-                                <img src="assets/img/services/photography.png">
+                                <img src="assets/img/services/photography.webp" width="40" height="40" class="img-responsive" alt="services-image-icon">
                             </i>
                         </div>
                         <div class="desc">
@@ -38,7 +38,7 @@
                     <div class="featured-item border-box hover brand-hover">
                         <div class="icon mb-30">
                             <i class="material-icons brand-icon">
-                                <img src="assets/img/services/video_production.png">
+                                <img src="assets/img/services/video_production.webp" width="40" height="40" class="img-responsive" alt="services-image-icon">
                             </i>
                         </div>
                         <div class="desc">
@@ -51,7 +51,7 @@
                     <div class="featured-item border-box hover brand-hover">
                         <div class="icon mb-30">
                             <i class="material-icons brand-icon">
-                                <img src="assets/img/services/digital_media.png">
+                                <img src="assets/img/services/digital_media.webp" width="40" height="40" class="img-responsive" alt="services-image-icon">
                             </i>
                         </div>
                         <div class="desc">
@@ -65,7 +65,7 @@
                     <div class="featured-item border-box hover brand-hover">
                         <div class="icon mb-30">
                             <i class="material-icons brand-icon">
-                                <img src="assets/img/services/advertising.png">
+                                <img src="assets/img/services/advertising.webp" width="40" height="40" class="img-responsive" alt="services-image-icon">
                             </i>
                         </div>
                         <div class="desc">
@@ -89,56 +89,56 @@
                     <div class="col-md-3 col-sm-6">
                         <div class="border-box">
                             <a href="#">
-                            <img src="assets/img/client-logo/arch_xenus.jpg" alt="clients">
+                            <img src="assets/img/client-logo/arch_xenus.webp" class="img-responsive" alt="service-clients-image">
                             </a>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="border-box">
                             <a href="#">
-                            <img src="assets/img/client-logo/business_world.jpg" alt="clients">
+                            <img src="assets/img/client-logo/business_world.webp" class="img-responsive" alt="service-clients-image">
                             </a>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="border-box">
                             <a href="#">
-                            <img src="assets/img/client-logo/dalex.jpg" alt="clients">
+                            <img src="assets/img/client-logo/dalex.webp" class="img-responsive" alt="service-clients-image">
                             </a>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="border-box">
                             <a href="#">
-                            <img src="assets/img/client-logo/harelquin.jpg" alt="clients">
+                            <img src="assets/img/client-logo/harelquin.webp" class="img-responsive" alt="service-clients-image">
                             </a>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="border-box">
                             <a href="#">
-                        <img src="assets/img/client-logo/moments.jpg" alt="clients">
+                        <img src="assets/img/client-logo/moments.webp" class="img-responsive" alt="service-clients-image">
                         </a>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="border-box">
                             <a href="#">
-                        <img src="assets/img/client-logo/nss.jpg" alt="clients">
+                        <img src="assets/img/client-logo/nss.webp" class="img-responsive" alt="service-clients-image">
                         </a>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="border-box">
                             <a href="#">
-                        <img src="assets/img/client-logo/subah.jpg" alt="clients">
+                        <img src="assets/img/client-logo/subah.webp" class="img-responsive" alt="service-clients-image">
                         </a>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6">
                         <div class="border-box">
                             <a href="#">
-                        <img src="assets/img/client-logo/swift.jpg" alt="clients">
+                        <img src="assets/img/client-logo/swift.webp" class="img-responsive" alt="service-clients-image">
                         </a>
                         </div>
                     </div>
